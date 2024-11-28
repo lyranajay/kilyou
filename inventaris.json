@@ -1,0 +1,32 @@
+{
+    "inventaris": [
+      {
+        "id": 1,
+        "nama": "Laptop Dell XPS 13",
+        "deskripsi": "Laptop ultrabook dengan prosesor Intel Core i7 dan layar 13 inci.",
+        "jumlah": 15,
+        "stok": 10,
+        "harga": 15000000,
+        "imageUrl": "https://example.com/images/laptop_dell_xps_13.jpg"
+      },
+      {
+        "id": 2,
+        "nama": "Mouse Logitech MX Master 3",
+        "deskripsi": "Mouse wireless dengan desain ergonomis dan banyak fitur.",
+        "jumlah": 30,
+        "stok": 25,
+        "harga": 1200000,
+        "imageUrl": "https://example.com/images/mouse_logitech_mx_master_3.jpg"
+      },
+      {
+        "id": 3,
+        "nama": "Keyboard Mechanical Razer BlackWidow",
+        "deskripsi": "Keyboard mekanikal dengan switch Razer Green yang responsif.",
+        "jumlah": 20,
+        "stok": 15,
+        "harga": 2000000,
+        "imageUrl": "https://example.com/images/keyboard_razer_blackwidow.jpg"
+      }
+    ]
+  }
+  
